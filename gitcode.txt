@@ -1,0 +1,15 @@
+git init
+git status
+git add requirements.txt
+git add .
+git status
+git commit -m "added requirement.txt file"
+https://github.com/varu1989/genai_all.git
+git remote add origin https://github.com/varu1989/genai_all.git
+git branch
+git branch -M main # create a new branch 
+# final push
+git push -u origin main
+
+
+
